@@ -28,7 +28,6 @@ py zhazamer.py
 
 Программа выведет список распознанных композиций с таймкодами:
 ```plaintext
-Copy code
 Processing segments: 100%|███████████████████████████████| 10/10 [00:45<00:00,  4.56s/it]
 0:00 Artist Name - Track Title
 0:30 Another Artist - Another Track
